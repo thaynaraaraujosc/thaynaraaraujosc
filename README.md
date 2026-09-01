@@ -1,4 +1,4 @@
-# Olá 👋, eu sou Tainara Araújo
+# Olá 👋, eu sou Thaynara Araújo
 
 🚀 **Desenvolvedora Full Stack Júnior | Engenharia de Software | Founder @ AZUZ Digital**  
 🇧🇷 Brasil
