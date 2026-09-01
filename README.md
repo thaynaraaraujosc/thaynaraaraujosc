@@ -92,8 +92,8 @@ Também sou fundadora da **AZUZ Digital**, agência de estratégia, marketing e 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thaynaraaraujos&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynaraaraujos&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thaynaraaraujosc&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynaraaraujosc&layout=compact&theme=tokyonight" />
 </p>
 
 ---
